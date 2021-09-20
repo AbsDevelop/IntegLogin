@@ -1,5 +1,45 @@
 /**/
 
-h2{
+body{
+  background-image: url(fundo.jpg);
+}
+
+#cabecalho{
+  background-color: #32A2B8;
+  color: white;
+  border-bottom: solid white 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#logotipo{
+  text-align: center;
+}
+
+#logo{
+  text-align: center;
+  width: 300px;
   margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+#entrar{
+  margin-top: 10px;
+}
+
+#esqueceuSenha{
+  color: #32A2B8;
+  margin-left: 20px;
+}
+
+#novaConta{
+  margin-top: 5px;
+}
+
+.a{
+  color: #32A2B8;
+}
+
+.b{
+  background-color: white;
 }
